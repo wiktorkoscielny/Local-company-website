@@ -11,8 +11,7 @@ The website was also created for the needs of a local hairdressing salon
 only as a courtesy and interestingly, 
 it actually exists on the internet 
 and offers information about the company.
-The website is hosted on free Netifly static website hosting.
-"https://perfekt-meski-fryzjer-mielec.netlify.app"
+The website is [hosted](https://perfekt-meski-fryzjer-mielec.netlify.app) on free Netifly static website hosting.
 
 ## Technologies
 Project is created with:
