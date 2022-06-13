@@ -3,8 +3,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
-* [Sources](#sources)
 
 ## General info
 Simple website made while learning html, css and javascript. 
@@ -23,12 +21,6 @@ Project is created with:
 * CSS
 * HTML
 
-## Setup
-
-Just open index.html file :D
-
-## Sources
-Entirely original work.
 
 
 
